@@ -74,10 +74,10 @@ Your task is to create a snowman that includes the following elements:
 Total: 56 points
 
 ## Submission Guidelines
-1. Submit an HTML file containing your HTML Code and a CSS file container your CSS Code
-2. Include a brief write-up explaining:
+1. Submit an HTML file containing your HTML Code and a CSS file containing your CSS Code in Github
+2. On Google Classroom in the Google Form Include a brief write-up explaining:
    - Your approach to building the snowman
-   - Any challenges you faced and how you overcame them
+   - Any challenges you faced awnd how you overcame them
    - What you learned from the project
 
 ## Resources
